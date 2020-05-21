@@ -6,22 +6,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 ### Access Practice Notebook
 ```
-git clone https://github.com/lotusxai/covid19-project.git
-cd covid19-project/notebooks
-jupyter notebook covid19-task-notebook.ipynb
 
-#The global tendency graph excluding China and in China:
-#Example
-./run.sh tendency
-
-#The prediction graph of a certain country by using linear regression:
-#Example
-./run.sh linear Spain
-
-
-#The prediction graph of a certain country by using logistic regression:
-#Example
-./run.sh logistic Spain
 ```
 
 ### Acknowledgments
