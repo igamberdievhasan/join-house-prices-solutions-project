@@ -17,11 +17,11 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 The initial notebook has been received and analyzed during a collaboration of PhillyTalent and [Nanashi](https://www.kaggle.com/jesucristo)
 
 #### Tasks
-Feature engineering with SageMaker Notebooks
+/////
 
 
 #### Technology Stack
-AWS SageMaker
+//////
 
 
 
